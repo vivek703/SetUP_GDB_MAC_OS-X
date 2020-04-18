@@ -1,6 +1,6 @@
 # Here are the steps to installing and setting up GDB on Mac OS Sierra/High Sierra. Run brew install gdb. On starting gdb, you will get the following error:
 
-##Unable to find Mach task port for process-id 2133: (os/kern) failure (0x5).
+## Unable to find Mach task port for process-id 2133: (os/kern) failure (0x5).
  (please check gdb is codesigned - see taskgated(8))
 To fix this error, follow the following steps:
 
